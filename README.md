@@ -124,4 +124,4 @@ The Data Warehouse follows a **Star Schema** architecture consisting of:
 # 👩‍💻 Author
 **Salma Kelany**
 
-ETL & Data Engineering
+ETL & Data Engineer
